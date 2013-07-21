@@ -1,0 +1,16 @@
+//
+// Prefix header for all source files of the 'NewDLImageView' target in the 'NewDLImageView' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#define SCREENSIZE [UIScreen mainScreen].applicationFrame.size
+#define IMAGEURL @"http://g.hiphotos.bdimg.com/album/s%3D900%3Bq%3D90/sign=292049bd34fae6cd08b4a7613f887e19/37d3d539b6003af3848c74ea342ac65c1038b602.jpg"
+#endif

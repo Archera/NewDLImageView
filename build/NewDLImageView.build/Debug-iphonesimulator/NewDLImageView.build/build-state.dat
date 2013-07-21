@@ -1,0 +1,701 @@
+TNewDLImageView
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Info.plist NewDLImageView/NewDLImageView-Info.plist
+cProcessPCH /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.pth NewDLImageView/NewDLImageView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView normal i386
+cGenerateDSYMFile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView
+cCopyStringsFile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/InfoPlist.strings NewDLImageView/en.lproj/InfoPlist.strings
+cCpResource NewDLImageView/Default.png build/Debug-iphonesimulator/NewDLImageView.app/Default.png
+cCpResource NewDLImageView/Default@2x.png build/Debug-iphonesimulator/NewDLImageView.app/Default@2x.png
+cCpResource NewDLImageView/Default-568h@2x.png build/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png
+cCompileXIB /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib
+cTouch /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050F4CA800000000000228FE0
+t1358219904
+s2265056
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050F4CA8C00000000003DDFA0
+t1358219916
+s4054944
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4CA8C00000000000015F7
+t1358219916
+s5623
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000050F4CA9A00000000002CFBE0
+t1358219930
+s2948064
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000050F4CAA700000000000F9CF0
+t1358219943
+s1023216
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050F4CAB900000000001D5750
+t1358219961
+s1922896
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050D532860000000000000E8D
+t1356149382
+s3725
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050F4CAC80000000000AB6230
+t1358219976
+s11231792
+
+N/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000050F4CB700000000000001B73
+t1358220144
+s7027
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.h
+c000000005164F3070000000000000177
+t1365570311
+s375
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m
+c000000005164F307000000000000098A
+t1365570311
+s2442
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.h
+c000000005164F7F90000000000000134
+t1365571577
+s308
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m
+c000000005164FBAD000000000000051E
+t1365572525
+s1310
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.h
+c000000005164F74D000000000000022D
+t1365571405
+s557
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m
+c00000000516500AC0000000000000F34
+t1365573804
+s3892
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/Default-568h@2x.png
+c000000005164F30700000000000048A2
+t1365570311
+s18594
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/Default.png
+c000000005164F307000000000000198C
+t1365570311
+s6540
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/Default@2x.png
+c000000005164F3070000000000003EEB
+t1365570311
+s16107
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/NewDLImageView-Prefix.pch
+c000000005164F307000000000000014B
+t1365570311
+s331
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.h
+c000000005164F3070000000000000F05
+t1365570311
+s3845
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m
+c000000005164F3070000000000001964
+t1365570311
+s6500
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.h
+c000000005164F307000000000000012B
+t1365570311
+s299
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m
+c000000005164F30700000000000007D8
+t1365570311
+s2008
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.h
+c000000005164F3070000000000000F88
+t1365570311
+s3976
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m
+c000000005164F307000000000000092C
+t1365570311
+s2348
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.h
+c000000005164F3070000000000000FA4
+t1365570311
+s4004
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m
+c000000005164F30700000000000030C7
+t1365570311
+s12487
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCacheDelegate.h
+c000000005164F3070000000000000451
+t1365570311
+s1105
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageCompat.h
+c000000005164F3070000000000000921
+t1365570311
+s2337
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.h
+c000000005164F307000000000000070E
+t1365570311
+s1806
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m
+c000000005164F3070000000000001230
+t1365570311
+s4656
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.h
+c000000005164F3070000000000000A19
+t1365570311
+s2585
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m
+c000000005164F3070000000000002ECF
+t1365570311
+s11983
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloaderDelegate.h
+c000000005164F3070000000000000686
+t1365570311
+s1670
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.h
+c000000005164F307000000000000195C
+t1365570311
+s6492
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m
+c000000005164F3070000000000004C74
+t1365570311
+s19572
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManagerDelegate.h
+c000000005164F3070000000000000948
+t1365570311
+s2376
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.h
+c000000005164F3070000000000000591
+t1365570311
+s1425
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m
+c000000005164F3070000000000000C6F
+t1365570311
+s3183
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.h
+c000000005164F3070000000000001CD3
+t1365570311
+s7379
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m
+c000000005164F307000000000000181B
+t1365570311
+s6171
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.h
+c000000005164F3070000000000001366
+t1365570311
+s4966
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m
+c000000005164F3070000000000000A42
+t1365570311
+s2626
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib
+c000000005164F3070000000000001788
+t1365570311
+s6024
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/InfoPlist.strings
+c000000005164F307000000000000002D
+t1365570311
+s45
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m
+c000000005164F3070000000000000157
+t1365570311
+s343
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app
+t1365573662
+s306
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM
+t1365573662
+s102
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png
+t1365573415
+s18594
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Default.png
+t1365573415
+s6540
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Default@2x.png
+t1365573415
+s16107
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Info.plist
+t1365573413
+s818
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView
+t1365573661
+s139476
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/PkgInfo
+t1365573413
+s8
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/DLViewController.nib
+t1365573415
+s862
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/InfoPlist.strings
+t1365573415
+s42
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.o
+t1365573414
+s92148
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.o
+t1365573414
+s95028
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.o
+t1365573414
+s76488
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.o
+t1365573414
+s74872
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.o
+t1365573661
+s89792
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.o
+t1365573414
+s79184
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/NewDLImageView.LinkFileList
+c000000005164FF25000000000000083E
+t1365573413
+s2110
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.o
+t1365573414
+s46936
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.o
+t1365573415
+s19280
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.o
+t1365573415
+s47372
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.o
+t1365573415
+s55284
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.o
+t1365573415
+s26328
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.o
+t1365573415
+s86336
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.o
+t1365573415
+s79036
+
+N/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.o
+t1365573414
+s3176
+
+N/var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.pth
+t1365573414
+s4680612
+
+NNewDLImageView/NewDLImageView-Info.plist
+c000000005164F307000000000000048E
+t1365570311
+s1166
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m
+r0
+
+CBuild AST from /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8bfcf22d3815b741^7559f42d3815b741^---0#1#0#--18"Check dependencies36"8D9061B1-75B4-45D5-9485-F173C44364F4-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.401403
+e387266214.521054
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.md5eb66a63615b741^a27c85a63615b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m0000000000000000^3732"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.o NewDLImageView/DLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLAppDelegate.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLAppDelegate.o36"32561B9C-F3A3-4AB0-B9DE-521B7C43D80E-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.522360
+e387266214.661480
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m2ee485a63615b741^2a56a9a63615b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m0000000000000000^3742"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.o NewDLImageView/SDWebImage/DLImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLImageView.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLImageView.o36"539141B7-9A33-4AB3-9E66-E76413FC5807-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.534550
+e387266214.631965
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m22ff88a63615b741^9ddaa1a63615b741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m0000000000000000^3760"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.o NewDLImageView/SDWebImage/DLProgressView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/DLProgressView.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLProgressView.o36"E7EA732E-6AC6-4C1A-A0AE-0260CCA96272-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.439467
+e387266214.533233
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m61a770a63615b741^758f88a63615b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m0000000000000000^3750"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.o NewDLImageView/DLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLViewController.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLViewController.o36"A638085D-A120-448B-8C1E-522FE5B1EEF1-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266605.984260
+e387266606.125574
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.mb41cfc2d3815b741^2925202e3815b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m0000000000000000^3738"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.o NewDLImageView/DLWebImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/DLWebImageView.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/DLWebImageView.o36"012D0DC0-3487-4E53-AE72-3CAEE9DD4A77-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.633264
+e387266214.800148
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m1347a2a63615b741^da03cda63615b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m0000000000000000^3826"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.o NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/MKAnnotationView+WebCache.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/MKAnnotationView+WebCache.o36"05CF26E9-09AB-461B-8DCD-19281470408D-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.662841
+e387266214.853863
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.mf4dda9a63615b741^810adba63615b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m0000000000000000^3748"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.o NewDLImageView/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDImageCache.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDImageCache.o36"F3B592EB-C5B4-4B47-B339-BEDA99C8BF7D-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.801435
+e387266215.032150
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.mc651cda63615b741^639708a73615b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m0000000000000000^3778"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.o NewDLImageView/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDecoder.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDecoder.o36"98377AAF-DF49-43C8-871C-F01641FFE7E5-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.856282
+e387266215.101136
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m255ddba63615b741^23da1aa73615b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m0000000000000000^3796"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.o NewDLImageView/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageDownloader.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageDownloader.o36"A94ED9EC-2470-499C-A1EF-D8B4E231F1B9-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266215.034360
+e387266215.266392
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.me90b09a73615b741^a73e44a73615b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m0000000000000000^3778"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.o NewDLImageView/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImageManager.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImageManager.o36"8BECE55A-4768-4AFF-A1DE-4EC921B2DC8F-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266215.102468
+e387266215.193785
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.ma2601aa73615b741^00a931a73615b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m0000000000000000^3796"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.o NewDLImageView/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/SDWebImagePrefetcher.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/SDWebImagePrefetcher.o36"D0029DE3-5987-4EB7-BEB1-96E15A8EF28E-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266215.196367
+e387266215.410234
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m376d32a73615b741^790669a73615b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m0000000000000000^3778"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.o NewDLImageView/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIButton+WebCache.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIButton+WebCache.o36"3E6D9BF5-492E-47CF-BCE2-CAFF6A8F272F-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266215.267701
+e387266215.388026
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.mfbae44a73615b741^3d6363a73615b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m0000000000000000^3796"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.o NewDLImageView/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/SDWebImage/UIImageView+WebCache.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/UIImageView+WebCache.o36"94CC1AEF-8182-448C-8CD0-F0C442C16EC3-
+
+CCompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.o /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266214.400908
+e387266214.437724
+r1
+xCompileC
+xbuild/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.o
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m31d366a63615b741^331b70a63615b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m0000000000000000^3678"CompileC build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.o NewDLImageView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -include /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch -MMD -MT dependencies -MF /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/main.m -o /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/main.o36"75A56159-2FE9-4F89-8C68-3C2CD699CE33-
+
+CCompileXIB /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib
+s387266215.643454
+e387266215.686061
+r1
+xCompileXIB
+x/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib7dcfa4a73615b741^93a8b3a73615b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib0000000000000000^995"CompileXIB NewDLImageView/en.lproj/DLViewController.xib    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/DLViewController.nib /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/DLViewController.xib --sdk /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"B7DF633D-4875-444C-A20A-39DD2DCB18F3-
+
+CCopyStringsFile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/InfoPlist.strings NewDLImageView/en.lproj/InfoPlist.strings
+s387266215.632077
+e387266215.635604
+r1
+xCopyStringsFile
+x/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/InfoPlist.strings
+xNewDLImageView/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy NewDLImageView/en.lproj/InfoPlist.strings0ce8a1a73615b741^88bba2a73615b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/en.lproj/InfoPlist.strings0000000000000000^627"CopyStringsFile build/Debug-iphonesimulator/NewDLImageView.app/en.lproj/InfoPlist.strings NewDLImageView/en.lproj/InfoPlist.strings    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/en.lproj -- NewDLImageView/en.lproj/InfoPlist.strings36"1631D311-F682-4782-AC5B-23BD2191EEC0-
+
+CCpResource NewDLImageView/Default-568h@2x.png build/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png
+s387266215.637366
+e387266215.642138
+r1
+xCpResource
+xNewDLImageView/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png3e3ca3a73615b741^8864a4a73615b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png000000000080d041^659"CpResource "NewDLImageView/Default-568h@2x.png" "build/Debug-iphonesimulator/NewDLImageView.app/Default-568h@2x.png"    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/Default-568h@2x.png" /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app36"E26E4A8C-7CC0-4D36-B55E-6BE32926D9C7-
+
+CCpResource NewDLImageView/Default.png build/Debug-iphonesimulator/NewDLImageView.app/Default.png
+s387266215.632254
+e387266215.636349
+r1
+xCpResource
+xNewDLImageView/Default.png
+xbuild/Debug-iphonesimulator/NewDLImageView.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/NewDLImageView.app/Default.pngc4eca1a73615b741^6ce8a2a73615b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Default.png000000000080d041^629"CpResource NewDLImageView/Default.png build/Debug-iphonesimulator/NewDLImageView.app/Default.png    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/Default.png /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app36"60FF951A-0FAF-4D14-ACE5-B7D808F8D32F-
+
+CCpResource NewDLImageView/Default@2x.png build/Debug-iphonesimulator/NewDLImageView.app/Default@2x.png
+s387266215.636842
+e387266215.642277
+r1
+xCpResource
+xNewDLImageView/Default@2x.png
+xbuild/Debug-iphonesimulator/NewDLImageView.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/NewDLImageView.app/Default@2x.pngc51da3a73615b741^cb68a4a73615b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Default@2x.png000000000080d041^644"CpResource "NewDLImageView/Default@2x.png" "build/Debug-iphonesimulator/NewDLImageView.app/Default@2x.png"    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/Default@2x.png" /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app36"D62A6538-B261-450B-B265-0EF7FB6C3AE9-
+
+CGenerateDSYMFile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView
+s387266606.255719
+e387266606.401836
+r1
+xGenerateDSYMFile
+x/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM
+x/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM008e412e3815b741^76de662e3815b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM/0000000000000000^703"GenerateDSYMFile build/Debug-iphonesimulator/NewDLImageView.app.dSYM build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView -o /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app.dSYM36"60B2D32F-A038-49E2-8B0C-08E03048E5A6-
+
+CLd /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView normal i386
+s387266606.132750
+e387266606.248776
+r1
+xLd
+x/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView0115222e3815b741^1ac43f2e3815b741^---0#0#0#--1295"Ld build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView normal i386    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator -filelist /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/Objects-normal/i386/NewDLImageView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework QuartzCore -framework MapKit -framework ImageIO -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/NewDLImageView36"E87649C0-FA6C-41D0-8BBE-22A3D0D60893-
+
+CProcessInfoPlistFile /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Info.plist NewDLImageView/NewDLImageView-Info.plist
+s387266213.734722
+e387266213.738992
+r1
+xProcessInfoPlistFile
+x/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Info.plist
+xNewDLImageView/NewDLImageView-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process NewDLImageView/NewDLImageView-Info.plistbe2dbca53615b741^c72ebda53615b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/NewDLImageView-Info.plist0000000000000000^726"ProcessInfoPlistFile build/Debug-iphonesimulator/NewDLImageView.app/Info.plist NewDLImageView/NewDLImageView-Info.plist    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NewDLImageView/NewDLImageView-Info.plist -genpkginfo /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app/Info.plist36"2247DA9D-55D1-4D22-AF99-603DAD24FEF7-
+
+CProcessPCH /Users/yuanxiangli/Library/Developer/Xcode/DerivedData/NewDLImageView-haeeohqtlxzdzgdksfoeqosdrlos/Index/PrecompiledHeaders/NewDLImageView-Prefix-dszkuflojmkxmvgchwrsqstjqwke_ast/NewDLImageView-Prefix.pch.pth NewDLImageView/NewDLImageView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.pth NewDLImageView/NewDLImageView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s387266213.747560
+e387266214.393827
+r1
+xProcessPCH
+x/var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.pth
+xNewDLImageView/NewDLImageView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile NewDLImageView/NewDLImageView-Prefix.pchc286bfa53615b741^49d764a63615b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/NewDLImageView-Prefix.pch0000000000000000^3727"ProcessPCH /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.pth NewDLImageView/NewDLImageView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-generated-files.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-own-target-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-all-target-headers.hmap -iquote /Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/NewDLImageView-project-headers.hmap -I/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources/i386 -I/Users/yuanxiangli/Desktop/NewDLImageView/build/NewDLImageView.build/Debug-iphonesimulator/NewDLImageView.build/DerivedSources -F/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.dia -c /Users/yuanxiangli/Desktop/NewDLImageView/NewDLImageView/NewDLImageView-Prefix.pch -o /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/ss/lh5p6pb537sfsm_47jz9fvlh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/NewDLImageView-Prefix-dllfbbxspllmzjefuzqdjgymgcio/NewDLImageView-Prefix.pch.d36"3CC71A1B-FB83-4AA3-B2A6-CA41266F75BF-
+
+CTouch /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app
+s387266606.422672
+e387266606.450913
+r1
+xTouch
+x/Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.appcf486c2e3815b741^3770732e3815b741^---0#0#0#--426"Touch build/Debug-iphonesimulator/NewDLImageView.app    cd /Users/yuanxiangli/Desktop/NewDLImageView    setenv PATH "/Applications/Xcode4.6/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode4.6/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yuanxiangli/Desktop/NewDLImageView/build/Debug-iphonesimulator/NewDLImageView.app36"D2EBB38D-0171-49AA-96FC-6B137E586276-
+
