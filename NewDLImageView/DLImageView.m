@@ -80,6 +80,7 @@
 
 - (void)webImageManager:(SDWebImageManager *)imageManager didUpdateWithProgress:(CGFloat)progress forURL:(NSURL *)url
 {
+    NSLog(@"%f",progress);
     progressLayer.progress = progress;
 }
 
